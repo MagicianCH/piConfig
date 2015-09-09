@@ -27,7 +27,7 @@ print("rtc done!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
 
 #vim
 os.system('sudo apt-get install vim')
-os.system('git clone https://github.com/skyman1991/.vim.git')
+os.system('git clone https://github.com/skyman1991/.vim.git ~/.vim')
 os.system('cd /home/pi/.vim && mv vimrc ../.vimrc')
 print("vim done!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
 
