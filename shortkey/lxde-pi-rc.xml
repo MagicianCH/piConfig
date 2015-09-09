@@ -311,7 +311,7 @@
     </keybind>
     <keybind key="A-T">
       <action name="Execute">
-        <command>lxterminal --geometry=105x70</command>
+        <command>lxterminal --geometry=71x45</command>
       </action>
     </keybind>
     <keybind key="A-F">
